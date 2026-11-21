@@ -1,5 +1,5 @@
-secret_number = 7
-guess = int(input("Guess the secret number: "))
+secret_number = 89
+guess = int(input("Guess the secret number between 1 and 100: "))
 
 while guess != secret_number:
 
